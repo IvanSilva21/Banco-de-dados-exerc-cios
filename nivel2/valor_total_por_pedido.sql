@@ -1,0 +1,1 @@
+"SELECT p.pedido_id, c.nome AS cliente, SUM(i.quantidade * i.preco_unitario) AS valor_total FROM pedidos p JOIN clientes c ON p.cliente_id = c.cliente_id JOIN itens_pedido i ON p.pedido_id = i.pedido_id GROUP BY p.pedido_id, c.nome;" 
