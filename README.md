@@ -5,6 +5,6 @@ Este repositório contém consultas SQL desenvolvidas para praticar conceitos fu
 ## Estrutura 
 - Nível 1: Fundamentos (Filtros, Ordenação e Agregação B sica) 
 - Nível 2: Intermedi rio (Joins, Agrupamentos Complexos e Subqueries) 
-- Nível 3: Avan‡ado (Window Functions, CTEs e Lógica de Negócio) 
+- Nível 3: Avançado (Window Functions, CTEs e Lógica de Negócio) 
  
 Cada exercício está salvo em um arquivo .sql separado dentro da pasta correspondente. 
